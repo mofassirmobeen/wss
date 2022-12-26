@@ -94,7 +94,7 @@ apt install python -y >/dev/null 2>&1
 echo -e "[ ${green}INFO${NC} ] Aight good ... installation file is ready"
 
 echo ""
-#wget -q https://raw.githubusercontent.com/nanotechid/supreme/aio/tools.sh;chmod +x tools.sh;./tools.sh
+#wget -q https://raw.githubusercontent.com/tcatvpn/wss/aio/tools.sh;chmod +x tools.sh;./tools.sh
 #rm tools.sh
 clear
 red "Tambah Domain Untuk XRAY"
